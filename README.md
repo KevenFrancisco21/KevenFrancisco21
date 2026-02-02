@@ -1,50 +1,75 @@
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Keven+Francisco+Rosário&fontSize=30&fontcolor=fff&animation=twinkling&fontAlignY=35"/>-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0380f6&height=180&section=header&text=Keven+Francisco+Do+Rosário&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0380f6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Keven+Francisco+Do+Rosário;Eu+tenho+21+anos+;Eu+moro+Ituberá-Bahia-Brazil;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+Bem+Vindo+Ao+Meu+Perfil!+:%29)](https://git.io/typing-svg)
+# Olá, eu sou Keven Francisco ! 👋
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=micaelrosario&show_icons=true&count_private=true&hide_border=true&title_color=0380f6&icon_color=0380f6&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micaelrosario&layout=compact&hide_border=true&title_color=0380f6&text_color=0380f6&bg_color=0d1117" />
+[![GitHub followers](https://img.shields.io/github/followers/KevenFrancisco21 ?label=Seguir&style=social)](https://github.com/KevenFrancisco21 )
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/KevenFrancisco21 )
+
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=micaelrosario&bg_color=0D1117&color=4C71A1&line=4C71A1&point=FF6D00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 Sobre Mim
 
-<!--REDES SOCIAIS-->
-<div align="center">  
-  <a href="https://www.instagram.com/devmicaelrosario/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-  <a href = "mailto:andersoncardoso.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/micael-ros%C3%A1rio-263b8324a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+```javascript
+const dev = {
+    nome: "Keven Francisco ",
+    localização: "Ituberá, Bahia 🇧🇷",
+    cargo: "Engenheiro de Software",
+    interesses: ["Backend", "Frontend", "DevOps", "Clean Code"],
+    hobbies: ["Programação", "Música", "Natureza"],
+    funFact: "Código limpo é arte! ✨"
+};
+```
+
+## 🛠️ Tech Stack
+
+### Linguagens
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend & DevOps
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevenFrancisco21 &show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenFrancisco21 &layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevenFrancisco21 &theme=tokyonight&hide_border=true&background=0D1117"/>
+</div>
+
+## 🌴 De Ituberá para o Mundo
+
+> "Desenvolvendo software com a energia boa do litoral sul da Bahia! 🌊"
+
+📍 **Ituberá, Bahia** - Terra do Dendê e da Costa do Cacau
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KevenFrancisco21 )
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://KevenFrancisco21 .dev)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=KevenFrancisco21 &color=brightgreen&style=flat-square" alt="Profile views"/>
   
-
-### Habilidades Principais:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-bootstrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=5382A1&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0D1117)&nbsp; 
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
-
-### Other Knowledge:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{micaelrosario}/count.svg" /></p> 
-<br></div>
-  
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0380f6&height=120&section=footer"/>****
+  ⭐️ Feito com 💚 em Ituberá, Bahia
+</div>
