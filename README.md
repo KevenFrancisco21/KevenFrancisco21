@@ -69,7 +69,7 @@ const dev = {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevenFrancisco21 &color=brightgreen&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=KevenFrancisco21 &color=green&style=flat-square" alt="Profile views"/>
   
   ⭐️ Feito com 💚 em Ituberá, Bahia
 </div>
